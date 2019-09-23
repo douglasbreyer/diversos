@@ -1,0 +1,2 @@
+# diversos
+Codigos diversos
